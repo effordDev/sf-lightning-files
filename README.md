@@ -1,5 +1,7 @@
 # sf-lightining-files
 
+[![Deploy with reapd](https://reapd.io/badge.svg)](https://reapd.io/app?author=effordDev&repo=sf-lightning-files&branch=master)
+
 This component displays all files related to a record. works for both internal and communities
 
 By default, you can upload up to 10 files simultaneously unless your Salesforce admin has changed that limit. 
@@ -12,11 +14,6 @@ In Experience Builder sites, the file size limits and types allowed follow the s
 - showUploadButton
 - showPreviewInFlow
 - fileName  
-
-<a href="https://githubsfdeploy.herokuapp.com">
-  <img alt="Deploy to Salesforce"
-       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
-</a>
 
 ![image](https://user-images.githubusercontent.com/36901822/224725356-f1b5fa5d-b3ea-4389-a3f9-e9cf682894e0.png)
 
